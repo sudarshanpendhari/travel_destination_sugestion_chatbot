@@ -1,0 +1,116 @@
+{
+    "dests":{
+        "Beaches":[
+            {
+                "name":"Lakshdweep",
+                "Location":"India",
+                "TouristSpots":[
+                    {
+                        "TSN":"1. Andretti",
+                        "info":"Also known as Andrott island, Andretti is the largest island of the Lakshadweep archipelago and lies closest to the Indian mainland in the east-west direction."
+                    },
+                    {
+                        "TSN":"2. Agatti",
+                        "info":"Boasting a 25 km lagoon area and total expanse of 3.3 km sq., Agatti is the only island with an airport that makes travelling to Lakshadweep extremely convenient. It is one of the few inhabited islands of the archipelago."
+                    },
+                    {
+                        "TSN":"3. Minicoy",
+                        "info":"The island lies the furthest from others in the southernmost part of Lakshadweep with Viringili. Locally called Maliku, the island is situated close to 90 Channel, one of the busiest shipping port in the Arabian Sea."
+                    }
+                ]
+            },
+            {
+                "name":"Kerala",
+                "Location":"India",
+                "TouristSpots":[
+                    {
+                        "TSN":"1. Kovalam",
+                        "info":"As one of the most precious jewels of the Arabian Sea, Kovalam is a heavenly area that absolutely deserves to be in this selection of best beaches in Kerala. It’s situated in the southern parts of ‘God’s Own Country’, and it’s very easy to access "
+                    },
+                    {
+                        "TSN":"2. Varkala",
+                        "info":"This is a peculiar beach, in that it feels slightly secluded but it’s not off the beaten path. Varkala is a relaxing and meditative spot, popular with yoga lovers and hippies, and it’s famous for its cliffs overlooking the beach – most beaches in Kerala are long and sandy, and these cliffs make Varkala truly unique."
+                    }
+                ]
+            },
+            {
+                "name":"Andman and Nicobar",
+                "Location":"India",
+                "TouristSpots":[
+                    {
+                        "TSN":"1. Corbyn’s Cove",
+                        "info":"Lined with luxuriant coconut plantations, Corbyn’s Cove is one of the most unspoiled Andaman beaches in Port Blair. One can indulge in watersports, take a leisure stroll, relish at the beach shacks, or take a boat ride up to the Snake Island. This is one of the most exotic beaches in Andaman offering enticing escapes to the nature lovers. The peace and tranquility of this beach will win you over."
+                    },
+                    {
+                        "TSN":"2. Wandoor Beach",
+                        "info":"his coral beach in Andaman, Wandoor is one of the most charming and popular Andaman and Nicobar beaches. The beach is the gateway to the Mahatma Gandhi National Marine Park – a perfect place to spot exquisite corals and marine fauna. A paradise for photographers and nature lovers, this beach is frequented by tourists for relaxing walks.Famous For: Glass-bottom boating and scuba diving under professional guidance"
+                    }
+                ]
+            }
+        ],
+        "Forts":[
+            {
+                "name":"Harihargad",
+                "Location":"Nashik,Maharashtra"
+
+            },
+            {
+                "name":"Raigad",
+                "Location":"Kokan,Maharashtra"
+            },
+            {
+                "name":"LaL kila",
+                "Location":"Delhi"
+            },
+            {
+                "name":"Sinhgad",
+                "Location":"Pune"
+            }
+        ],
+        "hill station":[
+            {
+                "name":"Shimla",
+                "Location":"Himachal Pradesh"
+
+            },
+            {
+                "name":"Manali",
+                "Location":"Himachal Pradesh"
+            },
+            {
+                "name":"Mahabaleshwar",
+                "Location":"Maharashtra"
+            }
+        ],
+        "historical":[
+            {
+                "name":"Jaipur",
+                "Location":"Rajasthan"
+
+            },
+            {
+                "name":"Agra",
+                "Location":"Uttar Pradesh"
+            },
+            {
+                "name":"Pune",
+                "Location":"Maharashtra"
+            }
+        ],
+        "Temples":[
+            {
+                "name":"Akshardham Mandir",
+                "Location":"Gandhinagar,Gujrat"
+
+            },
+            {
+                "name":"Dilwada jain Mandir",
+                "Location":"Mount Abu,Rajasthan"
+            },
+            {
+                "name":"Ram Mandir",
+                "Location":"Ayodhya, Uttar Pradesh"
+            }
+        ]
+    }
+}
